@@ -21,11 +21,11 @@ function removeEveryOther(arr){
 **No professional experience yet**
 
 - Education:
-__ - HTML Academy courses__
-__ - Java Rush (4 lvl)__
+__- HTML Academy courses__
+__- Java Rush (4 lvl)__
 __also use [learn.javascript.ru](https://learn.javascript.ru/), [codewars.com](https://www.codewars.com/users/sobolevamasha)__
 
 - Languages:
-__ 1. English__ (advanced)
-__ 2. German__ (intermediate)
-__ 3. Danish__ (elementary)
+**1.English** (advanced)
+**2.German** (intermediate)
+**3.Danish** (elementary)
