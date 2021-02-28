@@ -28,12 +28,12 @@ function removeEveryOther(arr){
 
 - Education:
   
-__*HTML Academy courses__
-__*Java Rush (4 lvl)__
+__HTML Academy courses,__
+__Java Rush, (4 lvl)__
 __also use [learn.javascript.ru](https://learn.javascript.ru/), [codewars.com](https://www.codewars.com/users/sobolevamasha)__
 
 - Languages:
   
-**1.English** (advanced)
-**2.German** (intermediate)
-**3.Danish** (elementary)
+**English,** (advanced)
+**German,** (intermediate)
+**Danish** (elementary)
